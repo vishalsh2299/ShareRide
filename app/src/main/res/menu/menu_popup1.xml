@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Types of Vehicles">
+
+        <menu>
+
+        <item
+            android:title="Four Wheeler"
+            android:id="@+id/four"
+            android:icon="@drawable/carset">
+        </item>
+        <item
+            android:id="@+id/three"
+            android:title="Three Wheeler"
+            android:icon="@drawable/autoset"/>
+        <item android:id="@+id/two"
+            android:title="Two Wheeler"
+            android:icon="@drawable/ic_directions_bike_black_24dp"/>
+
+    </menu>
+    </item>
+
+
+</menu>

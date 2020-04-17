@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319331456703",
+    "firebase_url": "https://shareride-24c67.firebaseio.com",
+    "project_id": "shareride-24c67",
+    "storage_bucket": "shareride-24c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319331456703:android:f86b388306af3de398180a",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319331456703-f2bhm29dmtllhqmgtqgr5vgo48eimo3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathon",
+            "certificate_hash": "87b287b179f6557ae88dcc3e225098276ece65b8"
+          }
+        },
+        {
+          "client_id": "319331456703-etjnesfa2jlfgdcrmjs2piba89ljhvtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29Gue4wRjWlbPVMX4mee908QLL1lyPB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319331456703-etjnesfa2jlfgdcrmjs2piba89ljhvtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
